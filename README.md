@@ -3,6 +3,7 @@
 **Project Title -**
 
 Natural Language Processing for Legal Documents
+
 **Aim -**
 
 Develop an AI system that can extract and summarize key legal information from
